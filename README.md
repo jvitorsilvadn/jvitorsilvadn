@@ -89,10 +89,9 @@ Me chamo João Vitor, tenho 22 anos e sou estudante de Engenharia da Computaçã
     src="https://cdn.discordapp.com/attachments/1274923117688389693/1399959274138112200/download20250703002248_online-video-cutter.com_2.gif?ex=688ae52c&is=688993ac&hm=f6cc10fa46f6959c8cf07114d51b5847bd265ab89a27f53b3b12936e62d4c7f0&" 
 /> 
 
-
-
 <br/>
 <br/>
+
 
 ### 📊 Estatísticas
 
@@ -114,8 +113,7 @@ Me chamo João Vitor, tenho 22 anos e sou estudante de Engenharia da Computaçã
 
 </p>
 
-<br>
-<br>
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jvitorsilvadn/jvitorsilvadn/output/github-contribution-grid-snake-dark.svg">
