@@ -99,7 +99,7 @@ Me chamo João Vitor, tenho 22 anos e sou estudante de Engenharia da Computaçã
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="140" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=jvitorsilvadn&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
   />
@@ -107,9 +107,8 @@ Me chamo João Vitor, tenho 22 anos e sou estudante de Engenharia da Computaçã
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
       style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvitorsilvadn&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvitorsilvadn&theme=merko&layout=compact&custom_title=Tecnologias&size_weight=0&count_weight=1" 
   />
 
 </p>
