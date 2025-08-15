@@ -101,7 +101,7 @@ Me chamo João Vitor, tenho 22 anos e sou estudante de Engenharia da Computaçã
     alt="GitHub Stats" 
     height="140" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jvitorsilvadn&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&rank_icon=github" 
+    src="https://github-readme-stats.vercel.app/api?username=jvitorsilvadn&show_icons=false&theme=merko&rank_icon=github&ring_color=#fff" 
   />
 
 <img 
